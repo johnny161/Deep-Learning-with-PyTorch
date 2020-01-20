@@ -1,6 +1,6 @@
 # Deep-Learning-with-PyTorch
 ## Introduce
-本书书名为《深度学习原理与PyTorch实战》由集智俱乐部编著
+本书书名为《深度学习原理与PyTorch实战》由集智俱乐部编著  
 本书的目录如下：
 1. 深度学习简介
 2. PyTorch简介
